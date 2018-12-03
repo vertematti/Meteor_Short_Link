@@ -8,7 +8,9 @@ Para rodar a aplicação com o meteor instalado na máquina:
 
   1 - Dentro da raiz do projeto, executar "meteor npm i" para instalar os módulos localmente;
   
-  2 - Executar "meteor" para subir a aplicação (Proxy, Mongo e Build Assistido);  
+  2 - Executar "meteor" para subir a aplicação (Proxy, Mongo e Build assistido); 
+  
+  3 - Acessar via URL: http://localhost:3000/
 
 ## Authors
 
