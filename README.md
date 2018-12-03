@@ -1,8 +1,8 @@
-# Short Lnk
+# Short Link
 
-Segundo projeto de exemplo em Meteor/React
+Segundo projeto de exemplo em Meteor/React do Curso (https://www.udemy.com/meteor-react/) de Andrew Mead.
 
-Subindo exemplo do Curso no Udemy para treinamento interno da equipe de DEV;
+Atualizações para o Meteor 1.8.0.1 em 2018/12/02.
 
 ## Authors
 
