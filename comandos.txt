@@ -1,0 +1,2 @@
+λ meteor add fourseven:scss
+meteor npm i react-flip-move --save
